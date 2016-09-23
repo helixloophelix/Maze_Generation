@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="InfiniMaze Tileset" tilewidth="64" tileheight="64" tilecount="256">
+  <image source="InfiniMaze Tileset.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1sENwjAMBVC3sACiC7SwAOw/HLFSS2zgQ9+T/qG3KF+1s0TEc+Q+8hnZz9DjEbOLzDqynKHHMXKL2cd35B366PSK2UN1kt9r64muLf+F6uR/ZtEj7z5nVu7y3OvmVa+8+3xPVSd76KNT3n29sWqfH60nuraaV9lH7fSt9UTXVl3U/6EPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDpB0fABG4=
+  </data>
+ </layer>
+</map>
